@@ -59,8 +59,6 @@ select_db = """
     USE tutorialDB_py;
 """
 
-
-
 # execute query
 execute_query(conn, select_db)
 
